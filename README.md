@@ -2,7 +2,7 @@
 
 ## RACCommunity
 
-**Note:** These guidelines take heavy inspiration from [RxSwiftCommunity](https://github.com/RxSwiftCommunity) and [Moya](https://github.com/Moya/contributors). Thank you for rising the bar on how Open Source collaboration should be!  
+**Note:** These guidelines take heavy inspiration from [RxSwiftCommunity](https://github.com/RxSwiftCommunity) and [Moya](https://github.com/Moya/contributors). Thank you for raising the bar on how Open Source collaboration should be!  
 
 First of all, let me thank you for taking the time to read this! These days, it's very difficult to find time to do anything. So if you are reading this, it's probably because you are interested in contributing to the amazing community around ReactiveCocoa. If you are not, you are welcomed anyway! 
 
